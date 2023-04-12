@@ -1,6 +1,5 @@
 function hello(str) {
-    // Add your solution here!
-    <str>Hello Wolrd!</str>
+    return `Hello, ${str}!`;
 };
 
 module.exports = hello;
